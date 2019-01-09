@@ -1,0 +1,17 @@
+{
+  "loggerUrl": "insert some here",
+  "serverUrl": "insert some here",
+  "identityUrl": "insert some here",
+  "useBugReporter": true,
+  "showVersion": false,
+  "devOptions": {
+    "androidHockeyOptions": {
+      "appId": "insert some here",
+      "apiToken": "insert some here"
+    },
+    "iOSHockeyOptions": {
+      "appId": "insert some here",
+      "apiToken": "insert some here"
+    }
+  }
+}

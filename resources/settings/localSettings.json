@@ -1,0 +1,15 @@
+{
+  "serverUrl": "",
+  "devOptions": {
+    "showAllComponentsOnStart": false,
+    "purgeStateOnStart": false,
+    "androidHockeyOptions": {
+      "appId": "insert some here",
+      "apiToken": "insert some here"
+    },
+    "iOSHockeyOptions": {
+      "appId": "insert some here",
+      "apiToken": "insert some here"
+    }
+  }
+}

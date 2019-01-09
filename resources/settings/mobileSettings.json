@@ -1,0 +1,37 @@
+{
+  "appName": "rn_stub",
+  "environment": "Development",
+  "serverUrl": "insert some here",
+  "identityUrl": "insert some here",
+  "loggerUrl": "",
+  "bugReportApiKey": "",
+  "useBugReporter": false,
+  "version": "1.0",
+  "build": 1,
+  "fetchTimeout": 10000,
+  "uploadTimeout": 60000,
+  "showVersion": true,
+  "notifications": {
+    "senderId": ""
+  },
+  "stripeKey": "pk_test_XVfO8f6Nda2tVwEC7TITMYuy",
+  "devOptions": {
+    "disableReduxLogger": false,
+    "showAllComponentsOnStart": false,
+    "purgeStateOnStart": false,
+    "reduxLoggerWhiteList": [
+      ""
+    ],
+    "reduxLogger": {
+      "diff": false
+    },
+    "androidHockeyOptions": {
+      "appId": "insert some here",
+      "apiToken": "insert some here"
+    },
+    "iOSHockeyOptions": {
+      "appId": "insert some here",
+      "apiToken": "insert some here"
+    }
+  }
+}
